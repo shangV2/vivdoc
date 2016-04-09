@@ -1,4 +1,4 @@
-package datamodel;
+package cn.eagle.pubsea.webpage.datamodel;
 
 
 public class FileParser {
