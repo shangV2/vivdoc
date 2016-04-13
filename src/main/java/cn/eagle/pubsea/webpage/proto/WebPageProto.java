@@ -124,7 +124,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * time
      * </pre>
      */
     boolean hasTimestamp();
@@ -132,7 +132,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * time
      * </pre>
      */
     java.lang.String getTimestamp();
@@ -140,7 +140,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * time
      * </pre>
      */
     com.google.protobuf.ByteString
@@ -571,7 +571,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * 时间
      * </pre>
      */
     public boolean hasTimestamp() {
@@ -581,7 +581,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * 时间
      * </pre>
      */
     public java.lang.String getTimestamp() {
@@ -602,7 +602,7 @@ public final class WebPageProto {
      * <code>optional string timestamp = 6;</code>
      *
      * <pre>
-     * 时间�?
+     * 时间
      * </pre>
      */
     public com.google.protobuf.ByteString
@@ -1553,7 +1553,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public boolean hasTimestamp() {
@@ -1563,7 +1563,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public java.lang.String getTimestamp() {
@@ -1581,7 +1581,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public com.google.protobuf.ByteString
@@ -1601,7 +1601,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public Builder setTimestamp(
@@ -1618,7 +1618,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public Builder clearTimestamp() {
@@ -1631,7 +1631,7 @@ public final class WebPageProto {
        * <code>optional string timestamp = 6;</code>
        *
        * <pre>
-       * 时间�?
+       * 时间
        * </pre>
        */
       public Builder setTimestampBytes(
